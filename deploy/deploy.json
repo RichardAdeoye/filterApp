@@ -1,0 +1,1 @@
+{"appurl":"AsosFilter-client.com","name":"AsosFilter","start":"node asosFilter.js","port":"4001","path":"/var/www","nginx":"/etc/nginx/sites-enabled","url":"https://github.com/RichardAdeoye/filterApp.git","server":"root@192.168.2.4","sshport":"22"}
